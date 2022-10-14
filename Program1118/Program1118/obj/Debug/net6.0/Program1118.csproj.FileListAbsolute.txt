@@ -1,0 +1,15 @@
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1118\Program1118\bin\Debug\net6.0\Program1118.exe
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1118\Program1118\bin\Debug\net6.0\Program1118.deps.json
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1118\Program1118\bin\Debug\net6.0\Program1118.runtimeconfig.json
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1118\Program1118\bin\Debug\net6.0\Program1118.dll
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1118\Program1118\bin\Debug\net6.0\Program1118.pdb
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1118\Program1118\obj\Debug\net6.0\Program1118.csproj.AssemblyReference.cache
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1118\Program1118\obj\Debug\net6.0\Program1118.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1118\Program1118\obj\Debug\net6.0\Program1118.AssemblyInfoInputs.cache
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1118\Program1118\obj\Debug\net6.0\Program1118.AssemblyInfo.cs
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1118\Program1118\obj\Debug\net6.0\Program1118.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1118\Program1118\obj\Debug\net6.0\Program1118.dll
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1118\Program1118\obj\Debug\net6.0\refint\Program1118.dll
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1118\Program1118\obj\Debug\net6.0\Program1118.pdb
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1118\Program1118\obj\Debug\net6.0\Program1118.genruntimeconfig.cache
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1118\Program1118\obj\Debug\net6.0\ref\Program1118.dll
