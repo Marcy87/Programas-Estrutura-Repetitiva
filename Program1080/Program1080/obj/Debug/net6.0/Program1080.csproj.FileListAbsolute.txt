@@ -1,0 +1,15 @@
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1080\Program1080\bin\Debug\net6.0\Program1080.exe
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1080\Program1080\bin\Debug\net6.0\Program1080.deps.json
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1080\Program1080\bin\Debug\net6.0\Program1080.runtimeconfig.json
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1080\Program1080\bin\Debug\net6.0\Program1080.dll
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1080\Program1080\bin\Debug\net6.0\Program1080.pdb
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1080\Program1080\obj\Debug\net6.0\Program1080.csproj.AssemblyReference.cache
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1080\Program1080\obj\Debug\net6.0\Program1080.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1080\Program1080\obj\Debug\net6.0\Program1080.AssemblyInfoInputs.cache
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1080\Program1080\obj\Debug\net6.0\Program1080.AssemblyInfo.cs
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1080\Program1080\obj\Debug\net6.0\Program1080.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1080\Program1080\obj\Debug\net6.0\Program1080.dll
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1080\Program1080\obj\Debug\net6.0\refint\Program1080.dll
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1080\Program1080\obj\Debug\net6.0\Program1080.pdb
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1080\Program1080\obj\Debug\net6.0\Program1080.genruntimeconfig.cache
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1080\Program1080\obj\Debug\net6.0\ref\Program1080.dll
