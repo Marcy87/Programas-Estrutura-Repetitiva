@@ -1,0 +1,15 @@
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1074\Program1074\bin\Debug\net6.0\Program1074.exe
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1074\Program1074\bin\Debug\net6.0\Program1074.deps.json
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1074\Program1074\bin\Debug\net6.0\Program1074.runtimeconfig.json
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1074\Program1074\bin\Debug\net6.0\Program1074.dll
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1074\Program1074\bin\Debug\net6.0\Program1074.pdb
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1074\Program1074\obj\Debug\net6.0\Program1074.csproj.AssemblyReference.cache
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1074\Program1074\obj\Debug\net6.0\Program1074.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1074\Program1074\obj\Debug\net6.0\Program1074.AssemblyInfoInputs.cache
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1074\Program1074\obj\Debug\net6.0\Program1074.AssemblyInfo.cs
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1074\Program1074\obj\Debug\net6.0\Program1074.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1074\Program1074\obj\Debug\net6.0\Program1074.dll
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1074\Program1074\obj\Debug\net6.0\refint\Program1074.dll
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1074\Program1074\obj\Debug\net6.0\Program1074.pdb
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1074\Program1074\obj\Debug\net6.0\Program1074.genruntimeconfig.cache
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1074\Program1074\obj\Debug\net6.0\ref\Program1074.dll
