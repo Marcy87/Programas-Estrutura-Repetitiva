@@ -1,0 +1,15 @@
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1132\Program1132\bin\Debug\net6.0\Program1132.exe
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1132\Program1132\bin\Debug\net6.0\Program1132.deps.json
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1132\Program1132\bin\Debug\net6.0\Program1132.runtimeconfig.json
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1132\Program1132\bin\Debug\net6.0\Program1132.dll
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1132\Program1132\bin\Debug\net6.0\Program1132.pdb
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1132\Program1132\obj\Debug\net6.0\Program1132.csproj.AssemblyReference.cache
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1132\Program1132\obj\Debug\net6.0\Program1132.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1132\Program1132\obj\Debug\net6.0\Program1132.AssemblyInfoInputs.cache
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1132\Program1132\obj\Debug\net6.0\Program1132.AssemblyInfo.cs
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1132\Program1132\obj\Debug\net6.0\Program1132.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1132\Program1132\obj\Debug\net6.0\Program1132.dll
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1132\Program1132\obj\Debug\net6.0\refint\Program1132.dll
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1132\Program1132\obj\Debug\net6.0\Program1132.pdb
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1132\Program1132\obj\Debug\net6.0\Program1132.genruntimeconfig.cache
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1132\Program1132\obj\Debug\net6.0\ref\Program1132.dll
