@@ -1,0 +1,15 @@
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1096\Program1096\bin\Debug\net6.0\Program1096.exe
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1096\Program1096\bin\Debug\net6.0\Program1096.deps.json
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1096\Program1096\bin\Debug\net6.0\Program1096.runtimeconfig.json
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1096\Program1096\bin\Debug\net6.0\Program1096.dll
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1096\Program1096\bin\Debug\net6.0\Program1096.pdb
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1096\Program1096\obj\Debug\net6.0\Program1096.csproj.AssemblyReference.cache
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1096\Program1096\obj\Debug\net6.0\Program1096.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1096\Program1096\obj\Debug\net6.0\Program1096.AssemblyInfoInputs.cache
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1096\Program1096\obj\Debug\net6.0\Program1096.AssemblyInfo.cs
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1096\Program1096\obj\Debug\net6.0\Program1096.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1096\Program1096\obj\Debug\net6.0\Program1096.dll
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1096\Program1096\obj\Debug\net6.0\refint\Program1096.dll
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1096\Program1096\obj\Debug\net6.0\Program1096.pdb
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1096\Program1096\obj\Debug\net6.0\Program1096.genruntimeconfig.cache
+C:\Users\marce\OneDrive\Desktop\C#\Seção 5 - Estruturas Repetitivas\Programas - Estrutura Repetitiva C#\Program1096\Program1096\obj\Debug\net6.0\ref\Program1096.dll
